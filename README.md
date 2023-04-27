@@ -1,4 +1,4 @@
-[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/autoadsubmission/autoad/master?urlpath=rstudio)
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/autoadsubmission/autoad/HEAD?urlpath=rstudio)
 
 # Meta-Learning for Fast Time Series Anomaly Detection Model Recommendation
 
