@@ -3,3 +3,4 @@ cellar/
 lock/
 sandbox/
 staging/
+.DS_Store
